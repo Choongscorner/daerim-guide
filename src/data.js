@@ -10,7 +10,7 @@ export const restaurants = [
     hours: "매일 09:00 - 21:00",
     tips: "만두를 먼저 조금 찢어 육즙을 마신 뒤 흑식초를 찍어 먹고, 시원한 량피를 곁들여 입가심하세요. 고수에 약하다면 '뿌야오 샹차이' 필수.",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=대림동+린궁즈멘관",
-    imgUrl: "/xiaolongbao.png"
+    imgUrl: "./xiaolongbao.png"
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ export const restaurants = [
     hours: "매일 11:00 - 24:00",
     tips: "방문 1시간 전 예약 필수! 제공되는 특수 포크와 칼로 직접 포를 떠가며 먹다가 나중에 뼈 해체를 부탁하세요.",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=대림동+줘마양다리구이+본점",
-    imgUrl: "/lamb_leg.png"
+    imgUrl: "./lamb_leg.png"
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ export const restaurants = [
     hours: "매일 10:00 - 01:00",
     tips: "마파두부는 흰 쌀밥을 꼭 추가해 비벼드세요. 극강의 마비맛이 오므로 맵찔이라면 토마토계란탕을 함께 시키시길 권장합니다.",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=대림동+사천요리+기와집",
-    imgUrl: "/mapo_tofu.png"
+    imgUrl: "./mapo_tofu.png"
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ export const restaurants = [
     hours: "매일 10:00 - 04:00",
     tips: "밥 한 공기에 지삼선과 마라탕 국물을 번갈아 먹는 것을 강력 추천합니다. 늦은 새벽까지 영업하여 야식으로도 최고입니다.",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=대림동+봉선마라탕",
-    imgUrl: "/maratang.png"
+    imgUrl: "./maratang.png"
   },
   {
     id: 5,
@@ -62,7 +62,7 @@ export const restaurants = [
     hours: "24시간 영업",
     tips: "소스 바에서 '참깨소스(마장) + 다진파 + 마늘 + 참기름 + 라오천추' 조합을 만들어 고기를 푹 찍어 드셔보세요. 빙홍차를 곁들이면 천국입니다.",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=대림동+홍중샤브뷔페",
-    imgUrl: "/hotpot.png"
+    imgUrl: "./hotpot.png"
   },
   {
     id: 6,
@@ -75,7 +75,7 @@ export const restaurants = [
     hours: "매일 11:00 - 23:00",
     tips: "도삭면 특유의 두껍고 쫄깃한 식감을 즐겨보세요! 국물은 향신료가 가미되어 이국적이면서도 깊고 깔끔합니다.",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=대림동+뤄웨이도삭면",
-    imgUrl: "/dosakmyeon.png"
+    imgUrl: "./dosakmyeon.png"
   },
   {
     id: 7,
@@ -88,7 +88,7 @@ export const restaurants = [
     hours: "24시간 영업",
     tips: "고수와 큼직하게 썬 대파의 향이 매우 강렬합니다. 얼큰한 다대기를 풀고 밥을 말아 깍두기 대신 짭짤한 반찬들을 올려 드셔보세요.",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=대림동+고향소탕집",
-    imgUrl: "/beef_soup.png"
+    imgUrl: "./beef_soup.png"
   },
   {
     id: 8,
@@ -101,7 +101,7 @@ export const restaurants = [
     hours: "상시 (주로 낮 시간대)",
     tips: "식으면 밥알이 굳어 딱딱해지니 받은 즉시 간장, 다진 마늘, 고추기름을 섞은 특제 소스에 푹 담가드세요. 한 끼 식사로도 든든합니다.",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=대림중앙시장",
-    imgUrl: "/yanbian_sundae.png"
+    imgUrl: "./yanbian_sundae.png"
   },
   {
     id: 9,
@@ -114,7 +114,7 @@ export const restaurants = [
     hours: "매일 오후 - 새벽",
     tips: "다양한 종류(마라맛, 생고기, 부속고기)를 조금씩 수십 개 시켜 질리지 않게 드시고, 마늘을 달라고 해서 꼬치에 끼워 같이 구워보세요.",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=대림동+원조강뚝꼬치구이전문점",
-    imgUrl: "/lamb_skewers.png"
+    imgUrl: "./lamb_skewers.png"
   },
   {
     id: 10,
@@ -127,6 +127,6 @@ export const restaurants = [
     hours: "매일 영업",
     tips: "달콤, 짭짤, 새콤하고 쫀득한 냉면구이의 식감은 한국 어디에서도 찾기 힘든 완벽한 간식입니다. 포장해서 맥주 안주로 드시는 것을 추천합니다.",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=대림동+대식대",
-    imgUrl: "/cold_noodle.png"
+    imgUrl: "./cold_noodle.png"
   }
 ];
